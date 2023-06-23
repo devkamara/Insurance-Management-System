@@ -1,5 +1,9 @@
 ## Insurance Management System
 Welcome to the Insurance Management System landing page!
+
+![WhatsApp Image 2023-06-23 at 2 28 30 PM](https://github.com/devkamara/Insurance-Management-System/assets/111047328/77a251de-56ad-455b-93a8-96650f94559d)
+
+
 ### Overview
 The Insurance Management System is a comprehensive software solution designed to streamline the insurance lifecycle, simplify policy management, enhance claims processing, and provide detailed reporting and analytics. This system empowers insurance companies to optimize their operations, improve customer service, and make data-driven decisions, ultimately increasing profitability and delivering a superior user experience.
 
