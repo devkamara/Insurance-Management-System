@@ -21,3 +21,8 @@ The Insurance Management System is a comprehensive software solution designed to
 [Francis Kamara](https://github.com/devkamara/ "Francis Kamara")
 
 [Oscar Kamau](https://github.com/KamauDev-maker "Oscar Kamau")
+
+## Our Blogposts
+[Francis Kamara](https://medium.com/p/cebc2e393b0a)
+
+[Oscar Kamau](https://medium.com/@oscarnjenga/navigating-the-insurance-frontier-conquering-trials-celebrating-triumphs-and-gaining-invaluable-de7e1a0030e1)
